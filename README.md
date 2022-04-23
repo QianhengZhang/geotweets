@@ -1,8 +1,11 @@
 # Lab 2: Geo-tagged Tweet Collection And Visualization
 
 Name: Joshua Zhang
+
 Course: Geog 458
+
 Section: Section AC
+
 Date: Aprill 22 2022
 
 This github repository is a work based on guidelines from [Geog 458 Advanced Digital Geographies](https://github.com/jakobzhao/geog458) created by [Professor Bo Zhao](https://geography.washington.edu/people/bo-zhao) from University of Washington.
